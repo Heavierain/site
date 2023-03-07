@@ -18,11 +18,9 @@ intro:
     feel as if I'm always here with you, two, you'll be able to see things
     update on here, like photos and videos of use both, and three, it'll be fun
     to see what I can come up with to make this YOUR website. "
-products: []
 values:
   heading: Just keep coming.
   text: If you pop over here, once or twice a day, you'll see little things
     changing. I'll add more features and things, that I think you'll like, I'm
     currently working on a mood-based playlist generator, based on your
     favourite songs.
----
