@@ -1,20 +1,28 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: I Love you
+subtitle: I always have and I always will
+image: img/1.jpeg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Hello Belle.
+  text: Welcome to your website baby girl, I've spent a while building this up to
+    what it is. I want this to be a place for you to come to, any time you're
+    feeling low, or upset, or just need reminding about how much I love you,
+    because I do, I always have, and I always will <3 <3 <3 <3
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  heading: What to do?
+  text: "Well I hope, as you're on here, you'll see things changing every now and
+    then. I'm going to add things that I think you'll like. For now, I've made a
+    little page where you'll be able to send me anything that's making you feel
+    down, or upset, or even to ask for things, because I know how much you don't
+    like asking me for anything. I hope this gives you a chance to, for one,
+    feel as if I'm always here with you, two, you'll be able to see things
+    update on here, like photos and videos of use both, and three, it'll be fun
+    to see what I can come up with to make this YOUR website. "
+products: []
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Just keep coming.
+  text: If you pop over here, once or twice a day, you'll see little things
+    changing. I'll add more features and things, that I think you'll like, I'm
+    currently working on a mood-based playlist generator, based on your
+    favourite songs.
 ---
-
