@@ -7,5 +7,5 @@ values:
       that I think you should know. Whether that be reminders or quotes or links
       to videos for you to watch or even just random things I love about you,
       you'll find them all here.
-    imageUrl: img/332479392_521563900128775_8564470089093527833_n.jpeg
+    imageUrl: img/home-about-section.jpg
 ---
