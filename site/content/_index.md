@@ -1,6 +1,6 @@
 ---
 title: I Love you
-subtitle: I always have and I always will
+subtitle: All this, just to say I love you
 image: img/1.jpeg
 blurb:
   heading: Hello Belle.
