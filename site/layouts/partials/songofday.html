@@ -1,0 +1,92 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Cairo:400,700&subset=arabic');
+
+
+
+h1 {
+  font-family: 'Cairo', serif;
+  font-size: 1.75em;
+  font-weight: 900;
+  color: LightPurple;
+}
+
+.center-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.emboss {
+  --embossSize: 3px;
+  filter: drop-shadow(0px calc(var(--embossSize) * -1) 0px hsla(0,0%,100%,0.75))
+          drop-shadow(calc(var(--embossSize) * -1) 0px 0px hsla(0,0%,100%,0.75))
+          drop-shadow(var(--embossSize) 0px 0px hsla(0,0%,25%,0.125))
+          drop-shadow(0px var(--embossSize) 0px hsla(0,0%,25%,0.125))
+          drop-shadow(var(--embossSize) var(--embossSize) 0px hsla(0,0%,25%,0.375));
+}
+
+.emboss-text {
+  text-shadow: -1px -2px 0px hsla(0,0%,100%,0.75),
+               1px 2px 0px hsla(0,0%,25%,0.25);
+}
+
+.notched--container {
+  width: 90%;
+  height: 50px;
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.notched--outer {
+  width: 100%; height: 100%;
+  background-color: Pink;
+  /* Notched Corners */
+  --notchSize: 16px;
+  clip-path: polygon(
+    /* Top left */
+    0% var(--notchSize), 
+    var(--notchSize) var(--notchSize), 
+    var(--notchSize) 0%, 
+    /* Top right */
+    calc(100% - var(--notchSize)) 0%, 
+    calc(100% - var(--notchSize)) var(--notchSize), 
+    100% var(--notchSize), 
+    /* Bottom right */
+    100% calc(100% - var(--notchSize)), 
+    calc(100% - var(--notchSize)) calc(100% - var(--notchSize)),
+    calc(100% - var(--notchSize)) 100%,
+    /* Bottom left */
+    var(--notchSize) 100%, 
+    var(--notchSize) calc(100% - var(--notchSize)),
+    0 calc(100% - var(--notchSize)) 
+  );
+}
+
+.notched--inner {
+  position: absolute;
+  background-color: #FFC2DC;
+  /* Inset border size */
+  --borderSize: 5px;
+  top: var(--borderSize); bottom: var(--borderSize);
+  left: var(--borderSize); right: var(--borderSize);
+  /* Inherit clip-path from .notched--outer */
+  clip-path: inherit;
+  
+}
+</style>
+
+<center><body class="">
+    <div class="notched--container emboss center-wrap">
+      <div class="notched--outer">
+        <div class="notched--inner center-wrap">
+          <h1 class="emboss-text"> Song Of The Day </h1>
+        </div>
+      </div>
+    </div>
+	
+<iframe width="80%" height="315"
+src="https://www.youtube.com/embed/Ar48yzjn1PE">
+</iframe>
+
+</body></center>
+
