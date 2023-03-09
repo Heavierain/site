@@ -3,11 +3,10 @@ title: I Love you
 subtitle: All this, just to say I love you
 image: img/1.jpeg
 blurb:
-  heading: Hello Belle.
-  text: Welcome to your website baby girl, I've spent a while building this up to
-    what it is. I want this to be a place for you to come to, any time you're
-    feeling low, or upset, or just need reminding about how much I love you,
-    because I do, I always have, and I always will <3 <3 <3 <3
+  heading: Welcome Back Belle
+  text: Hi Belle, nice to see you, I hope you're well and having a good day, if
+    not feel free to click on "Talk To Me". I've added a song of the day. that
+    I'll update every day for you, a song that reminds me of you. Love you xxxx
 intro:
   heading: What to do?
   text: "Well I hope, as you're on here, you'll see things changing every now and
@@ -18,6 +17,7 @@ intro:
     feel as if I'm always here with you, two, you'll be able to see things
     update on here, like photos and videos of use both, and three, it'll be fun
     to see what I can come up with to make this YOUR website. "
+products: []
 values:
   heading: Just keep coming.
   text: If you pop over here, once or twice a day, you'll see little things
