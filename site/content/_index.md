@@ -4,7 +4,12 @@ subtitle: All this, just to say I love you
 image: img/1.jpeg
 blurb:
   heading: Welcome Back Belle
-  text: Testing
+  text: >-
+    Hi Baby, I've added two things, for one, the song of the day, I'll update
+    this every day to a song that reminds me of you, or a new one I think you'll
+    like,
+
+    Two, scroll along the top bar, you'll see a tickets option, check it out baby.
 intro:
   heading: What to do?
   text: "Well I hope, as you're on here, you'll see things changing every now and
