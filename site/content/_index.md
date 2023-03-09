@@ -5,8 +5,9 @@ image: img/1.jpeg
 blurb:
   heading: Welcome Back Belle
   text: Hi Belle, nice to see you, I hope you're well and having a good day, if
-    not feel free to click on "Talk To Me". I've added a song of the day. that
-    I'll update every day for you, a song that reminds me of you. Love you xxxx
+    not, feel free to click on "Talk To Me". I've added a song of the day that
+    I'll update every day for you. I'll add songs that remind me of you.
+	Love you xxxx
 intro:
   heading: What to do?
   text: "Well I hope, as you're on here, you'll see things changing every now and
