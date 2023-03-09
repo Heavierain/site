@@ -2,7 +2,7 @@
 title: This Week
 type: products
 image: /img/products-jumbotron.jpg
-heading: Just Things I think will make you happy this week
+heading: Just Things I think will make you happy this week.
 description: A Description
 full_image: img/332324221_186078094121368_7282291686984178256_n.jpeg
 pricing:
