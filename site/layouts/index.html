@@ -1,6 +1,8 @@
-{{ partial "songofday" }}
+
 
 {{ define "main" }}
+
+{{ partial "songofday" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
