@@ -2,7 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-<div class="mw7 center ph3 pt4">
+<center><div class="mw7 center ph3 pt4">
 
   {{ range $index, $element := .Params.values }}
     {{ if modBool $index 2 }}
@@ -25,5 +25,5 @@
 <form name="DressTwoSatin" netlify>
 {{ partial "yesno" }}
 </form></div></center>
-
+</center>
 {{ end }}
