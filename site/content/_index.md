@@ -4,23 +4,22 @@ subtitle: All this, just to say I love you
 image: img/1.jpeg
 blurb:
   heading: Welcome Back Belle
-  text: Good Morning baby, I hope you're okay, check out the posts section, I've
-    added something this morning, I love you xxxx
+  text: Hi Belle, Welcome back to your website <3
 intro:
   heading: What to do?
-  text: "Well I hope, as you're on here, you'll see things changing every now and
-    then. I'm going to add things that I think you'll like. For now, I've made a
-    little page where you'll be able to send me anything that's making you feel
-    down, or upset, or even to ask for things, because I know how much you don't
-    like asking me for anything. I hope this gives you a chance to, for one,
-    feel as if I'm always here with you, two, you'll be able to see things
-    update on here, like photos and videos of use both, and three, it'll be fun
-    to see what I can come up with to make this YOUR website. "
+  text: >-
+    Well, as you know, we've got the tickets on here now. The form for you to
+    mess around with, send me any messages throughout the day on there. We've
+    got "watch me work" now, which I'll activate when I can. Keep checking "This
+    Week" for plans, or submit your own in the "Talk to me" form, I'll add them.
+    I'll try and add something to "Posts" every day for you. Head over to
+    "Random Things", I've picked out some stuff I think you'll like, have a look
+    there most days, I'll add something.
+
+
+    I love you baby xxxx
 products: []
 values:
-  heading: Just keep coming.
-  text: If you pop over here, once or twice a day, you'll see little things
-    changing. I'll add more features and things, that I think you'll like, I'm
-    currently working on a mood-based playlist generator, based on your
-    favourite songs.
+  heading: Enjoy Your Stay
+  text: I just want you to come here, and be happy, it's your safe place <3
 ---
