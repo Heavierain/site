@@ -1,6 +1,6 @@
 ---
 title: Ask
-logo: img/safari-pinned-tab.svg
+logo: img/coffee.gif
 contact_entries: []
 ---
-Ask for things
+Ask for things, will always be a yes, I promise :)
