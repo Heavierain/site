@@ -4,10 +4,7 @@ subtitle: All this, just to say I love you
 image: img/1.jpeg
 blurb:
   heading: Welcome Back Belle
-  text: >-
-    Hi Belle, Welcome back to your website <3
-
-    we'll be together in a state of peace soon, just pull through the shit life is throwing at you currently, and we'll come out, on top of the world.
+  text: Hi Belle, Welcome back to your website <3
 intro:
   heading: What to do?
   text: >-
