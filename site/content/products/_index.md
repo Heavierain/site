@@ -16,5 +16,5 @@ pricing:
         to make sure, you can finally be comfortable, safe, and happy. I'm going
         to save for our own place, I'm going to ensure you and I have a roof
         over our head, a place of our own, where we can be happy, and grow old,
-        together. I promise you Belle. I love you <3 <3 <3 <3
+        together. I promise you Belle. I love you
 ---
