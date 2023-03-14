@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: This Week
 type: products
 image: /img/products-jumbotron.jpg
 heading: Plans
