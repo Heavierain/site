@@ -10,7 +10,7 @@ pricing:
   description: "Hi Belle, I've put some plans below:"
   plans:
     - plan: New Plan
-      price: ∞
+      price: All
       description: New plan baby girl, here's what we're going to do, we're going to
         be together, I am going to sort both mine, and your life out, I'm going
         to make sure, you can finally be comfortable, safe, and happy. I'm going
