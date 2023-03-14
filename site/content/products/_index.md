@@ -10,6 +10,7 @@ pricing:
   description: "Hi Belle, I've put some plans below:"
   plans:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - plan: New Plan
       price: All
       description: New plan baby girl, here's what we're going to do, we're going to
@@ -19,6 +20,8 @@ pricing:
         over our head, a place of our own, where we can be happy, and grow old,
         together. I promise you Belle. I love you <3 <3 <3 <3
 =======
+=======
+>>>>>>> parent of 304b254 (Update Pages “products”)
     - plan: Going To The Beach
       price: "40"
       description: When I get paid we're going to the beach on the weekend, we'll have
@@ -34,5 +37,8 @@ pricing:
       items:
         - "********************************************************************\
           **************"
+<<<<<<< HEAD
+>>>>>>> parent of 304b254 (Update Pages “products”)
+=======
 >>>>>>> parent of 304b254 (Update Pages “products”)
 ---
