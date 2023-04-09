@@ -4,27 +4,37 @@
     <div id="love-message"></div>
   </div>
 </div>
+
 <style>
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
 
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
+  .card {
+    background-color: #f8d7da;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+    max-width: 400px;
+    width: 90%;
+  }
 
-.card {
-  background-color: #f8d7da;
-  padding: 20px;
-  border-radius: 10px;
-  text-align: center;
-  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
-}
+  .title {
+    color: #721c24;
+  }
 
-.title {
-  color: #721c24;
-}
-
+  @media (min-width: 768px) {
+    .container {
+      height: auto;
+    }
+    .card {
+      max-width: 600px;
+    }
+  }
 </style>
 
 <script>
